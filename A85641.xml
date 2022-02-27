@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by the King of France against the Prince of Conde; with the particulars of the fight; and the manner how Collonell James Stuart (second son to the late King of England) with a brigade of horse, charged the Prince of Conde's own regiment, with a resolution to fight either to death or victory; and after a bloudy conflict totally routed them; and with the assistance of Gen. Turein, put 6000 to the flight, killed above 800, took priosners about 1200, and 100 colours; with all their ordnance, arms, ammunition, bag and baggage. Also, a list of the names, of the chief officers, slain, taken, and wounded on both sides; likewise, the Prince of Conde's letter to the Parl. of England; and the declaration, and message, of the King of Scots; with his granting forth new commissions, to make war with the English; the setting forth of a new fleet under the command of Sir George Carteret; the number of the ships; and their taking of a rich prize bound from England, laden with gold and silver.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85641</idno>
+            <idno type="STC">Wing G1781</idno>
+            <idno type="STC">Thomason E663_5</idno>
+            <idno type="STC">ESTC R206824</idno>
+            <idno type="EEBO-CITATION">99865930</idno>
+            <idno type="PROQUEST">99865930</idno>
+            <idno type="VID">118186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118186)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E663[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by the King of France against the Prince of Conde; with the particulars of the fight; and the manner how Collonell James Stuart (second son to the late King of England) with a brigade of horse, charged the Prince of Conde's own regiment, with a resolution to fight either to death or victory; and after a bloudy conflict totally routed them; and with the assistance of Gen. Turein, put 6000 to the flight, killed above 800, took priosners about 1200, and 100 colours; with all their ordnance, arms, ammunition, bag and baggage. Also, a list of the names, of the chief officers, slain, taken, and wounded on both sides; likewise, the Prince of Conde's letter to the Parl. of England; and the declaration, and message, of the King of Scots; with his granting forth new commissions, to make war with the English; the setting forth of a new fleet under the command of Sir George Carteret; the number of the ships; and their taking of a rich prize bound from England, laden with gold and silver.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for George Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "may 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term>Fronde --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118186:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY OBTAINED BY THE King of France AGAINST THE PRINCE of CONDE; <hi>WITH</hi> The particulars of the Fight; and the manner how Collonell JAMES STUART (ſecond Son to the late King of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) with a Brigade of Horſe, charged the Prince of <hi>Conde</hi>'s own R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giment, with a Reſolution to fight either to Death or Victory; and after a bloudy Conflict totally routed them; and with the aſſiſtance of Gen. <hi>Turein,</hi> put 6000 to the flight, killed above 800, took priſoners about 1200, and 100 Colours; with all their Ordnance, Arms, Am<g ref="char:EOLhyphen"/>munition, Bag and Baggage.</p>
+            <p>
+               <hi>Alſo, a List of the Names, of the chief Officers, ſlain, taken, and wounded on both ſides;</hi> Likewiſe, the Prince of <hi>Conde</hi>'s Letter to the Parl. of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> And the Declaration, and Meſſage, of the King of <hi>Scots;</hi> with his granting forth new Commiſsions, to make War with the <hi>Engliſh;</hi> the ſetting forth of a new Fleet under the com<g ref="char:EOLhyphen"/>mand of Sir <hi>George Carteret;</hi> the number of the Ships; and their taking of a rich Prize bound from <hi>England,</hi> laden with Gold and Silver.</p>
+            <p>Imprinted at <hi>London,</hi> for <hi>George Horton,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:118186:2"/>
+            <pb n="1" facs="tcp:118186:2"/>
+            <head>A DECLARATION OF THE King of Scots Concerning the Parliament, Crown, and Commonwealth of <hi>England;</hi> And the Prince of <hi>Cond's</hi> Letter to the Councel, touching the ſame, &amp;c.</head>
+            <head type="sub">Incloſed in a Letter from the Court at <hi>Paris,</hi> the firſt of <hi>May, 1652.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King of <hi>Scots</hi> hath reſumed the way of me<g ref="char:EOLhyphen"/>diation for peace and union between his Roy<g ref="char:EOLhyphen"/>all Majeſty, and the Prince of <hi>Conde;</hi> propo<g ref="char:EOLhyphen"/>ſing (as an Expedient) that Cardinal <hi>Maza<g ref="char:EOLhyphen"/>rin</hi> might be ſent away as a Commiſſioner to treat about the general peace of <hi>Europe;</hi> but the Duke of <hi>Orleans</hi> ſeemed to wave it at preſent, until ſuch time, that
+<pb n="2" facs="tcp:118186:3"/>by the advice and counſel of the Prince of <hi>Conti,</hi> he was moved to accord thereunto; in purſuance whereof his roy<g ref="char:EOLhyphen"/>all Highneſs gave his aſſent, That young <hi>Charles</hi> ſhould be permitted to perſue his mediation. Whereupon He imme<g ref="char:EOLhyphen"/>diatly ſent the Lord <hi>Montague</hi> with a Meſſage to K. <hi>Lewis,</hi> wherein he declared himſelf as followeth:</p>
+            <div type="body_of_declaration">
+               <opener>May it pleaſe your Majeſty,</opener>
+               <p>WHereas by ſad experience (in theſe our late diſtem<g ref="char:EOLhyphen"/>pered and unhappy Times) We are ſenſible of the great Miſeries and Calamities that are incident both to Prince and People, upon the diſtempers ariſing between the Head and Members, occurring chiefly from the flames of thoſe, who are frighted with mortal apprehenſions, and re<g ref="char:EOLhyphen"/>tain unto themſelves diverſity of fears and jealouſies, at the remembrance of thoſe dangers, which wiſe Counſels, and great Favourites, may ſuddenly involve them in: There<g ref="char:EOLhyphen"/>fore, having ſeriouſly weighed the ſad effects thereof, and the great devaſtation that doth befall both Crown &amp; King<g ref="char:EOLhyphen"/>doms thereby, which with grief of heart I ſpeak it, I hum<g ref="char:EOLhyphen"/>bly offer to your Majeſty this Expedient, for preventing of theſe inevitable Ruines, That your Majeſty will be pleaſed to conſider upon ſome convenient way for the expelling of the Cardinal (though it were but a limitation of time pre<g ref="char:EOLhyphen"/>fixed within your Royal Breaſt) and to ſatisfie the deſires of the people; without which, little ſafety can be expected, and all hopes of Reconcilement utterly fruſtrated and taken away.</p>
+               <p>The King having received this Meſſage, or Declaration, returned thanks to his Couſin <hi>Charles;</hi> but withall deſired him not to intermeddle any further therein giving aſſurance that he was reſolved to keep and protect the Cardinal.</p>
+               <p>Whereupon the Citizens of <hi>Paris</hi> were exceedingly ex<g ref="char:EOLhyphen"/>aſperated
+<pb n="3" facs="tcp:118186:3"/>in ſpirit, offering to raiſe 20000 men for the Pr. of <hi>Conde</hi> againſt the King: but its probable, that upon re<g ref="char:EOLhyphen"/>ceit of the unwelcome tydings of the great blow given to the Princes forces by Gen. <hi>Turein,</hi> and valiant <hi>James Stuart,</hi> they may change their reſolutions: for, indeed, the Defeat was great, being managed by a ſurpriſal; the exact Rela<g ref="char:EOLhyphen"/>tion whereof, take as followeth:</p>
+               <p>The King drawing near <hi>Paris,</hi> Marſhal <hi>Turein,</hi> Generall <hi>Hocquincourt,</hi> and Col. <hi>Stuart</hi> being to attend the march of the Court with their Armies, came along the Rivers of <hi>Yonne</hi> and <hi>Seine:</hi> And <hi>Turein</hi> perceiving that if he got be<g ref="char:EOLhyphen"/>twixt the Princes Army and <hi>Paris,</hi> he might be able to in<g ref="char:EOLhyphen"/>terrupt their communication with the Pariſians, marched with ſuch care and expedition, that he arrived at <hi>Chartres,</hi> while the ſame time the Princes army removed from <hi>Mon<g ref="char:EOLhyphen"/>targis</hi> to <hi>Eſtampes:</hi> And being reſolved to ſet upon the ene<g ref="char:EOLhyphen"/>my, he marched all night, and found them daawing up their army near <hi>Eſtampes;</hi> who ſpying the Kings army, immedi<g ref="char:EOLhyphen"/>atly retired into the Town, placing their Foot within the Works and Fortifications; but cauſed their Horſe to paſs the River.</p>
+               <p>Hereupon the two Generals drew up near the Walls of the Town; and perceiving a good ſpace of ground not wel guarded betwixt the outmoſt Suburbs and the Town, where they might cut off that part of the Suburbs, they attempted that place, and began the aſſault with much reſolution, and the Town was well maintained by the Defendants; but the Kings Ordnance having the advantage of a commanding Hillock, did ſo annoy the Princes party in the Town, and made a breach in the Wall, ſo that the Kings forces entred; and after a ſharp diſpute, became Maſters of the Town, ſei<g ref="char:EOLhyphen"/>zing upon the Magazine, and putting divers to the ſword: during this diſpute, the titular Duke of <hi>York,</hi> brake in with the horſe, doing great execution.</p>
+               <pb n="4" facs="tcp:118186:4"/>
+               <p>The Princes party were almoſt all killed, or taken, and his own Regiment totally cut off; for they denyed quarter. The Horſe ſtood all upon a Hill, on the other ſide of the River, as Spectators of this bloudy Tragedy, and never attempted to relieve the Foot. The occaſion of the Princes Army draw<g ref="char:EOLhyphen"/>ing out thus, was to welcome Madamoiſelle from <hi>Orleans,</hi> whence ſhe came to ſee them. This action was the more obſervable, in that the Kings party conſiſted onely of 2000 Foot, and 500 Horſe, againſt 6000 of the Princes; notwith<g ref="char:EOLhyphen"/>ſtanding they had the advantages of a deep Trench, a ſtrong Wall, and the Town it ſelf. The Duke of <hi>York</hi> (for ſo he is called here) commanded the Kings horſe, who charged ſo puiſſantly, that his very firſt Onſet ſufficiently teſtified he fought either to Death or Victory; for after the firſt Vol<g ref="char:EOLhyphen"/>ley, he brake in upon <hi>Wirtemberg,</hi> and the Princes own Re<g ref="char:EOLhyphen"/>giment, doing great execution, and making the field reſound with ſhrill ecchoes: In this fight was ſlain Mounſieur <hi>de Bloin,</hi> a Gentleman of irreſiſtable courage: Yet notwith<g ref="char:EOLhyphen"/>ſtanding, the loſs whereof, could not damp the general re<g ref="char:EOLhyphen"/>joycing for ſo important a Victory: Which was purſued with ſuch eagerneſs of ſpirit by the aforeſaid Duke, that the Kings party were in half an hours time exceedingly tran<g ref="char:EOLhyphen"/>ſported with exceſs of gladneſs.</p>
+               <p>The King hearing of this Victory, ſent an Expreſs to young <hi>James,</hi> to haſten to the Court, where he was triumphantly entertained, and is now in great eſteem amongſt the <hi>French;</hi> Immediatly after his reception, he preſented the King with a Narrative of the whole buſineſs, and a particular Liſt of the Officers and Souldiers killed and taken on both ſides: a Copy whereof I have hereunto annexed.</p>
+            </div>
+            <div type="list">
+               <pb n="5" facs="tcp:118186:4"/>
+               <head>A List of the Officers and Souldiers on both ſides, at the bloudy Fight neer <hi>Eſtampes,</hi> about <hi>18</hi> miles from <hi>Paris.</hi>
+               </head>
+               <list>
+                  <head>
+                     <hi>Slain of the Prince of</hi> Condes <hi>party.</hi>
+                  </head>
+                  <item>Monſieur <hi>Brook</hi> Major Gen.</item>
+                  <item>Col. <hi>Rinskey.</hi>
+                  </item>
+                  <item>Col. <hi>Montul.</hi>
+                  </item>
+                  <item>Col. <hi>Briole.</hi>
+                  </item>
+                  <item>Lieut. Col. <hi>Ferstemburg.</hi>
+                  </item>
+                  <item>Major <hi>Pareu.</hi>
+                  </item>
+                  <item>Captain <hi>Langorn.</hi>
+                  </item>
+                  <item>800 private ſouldiers.</item>
+               </list>
+               <list>
+                  <head>Taken priſoners by the Kings party.</head>
+                  <item>Maj. Gen. <hi>Debarto.</hi>
+                  </item>
+                  <item>Monſieur <hi>De Breal,</hi> Marſhal of the Camp.</item>
+                  <item>Col. <hi>Montaque.</hi>
+                  </item>
+                  <item>Col. <hi>Pleſſis.</hi>
+                  </item>
+                  <item>Col. <hi>Macrue.</hi>
+                  </item>
+                  <item>Col. <hi>Gihe.</hi>
+                  </item>
+                  <item>Col. <hi>Ranuel.</hi>
+                  </item>
+                  <item>Major <hi>Donorre.</hi>
+                  </item>
+                  <item>Major <hi>Sparing.</hi>
+                  </item>
+                  <item>Major <hi>Burluo.</hi>
+                  </item>
+                  <item>Captain <hi>La Pallu:</hi>
+                  </item>
+                  <item>captain <hi>Rinstey.</hi>
+                  </item>
+                  <item>captain <hi>Stumburg.</hi>
+                  </item>
+                  <item>captain <hi>Roſen.</hi>
+                  </item>
+                  <item>captain <hi>Gennet.</hi>
+                  </item>
+                  <item>60 Lieutenants, and other Officers.</item>
+                  <item>1200 private ſouldiers.</item>
+                  <item>100 Colours.</item>
+                  <item>13 pieces of Ordnance.</item>
+                  <item>3000 Arms.</item>
+                  <item>And all their Bag and Bag<g ref="char:EOLhyphen"/>gage.</item>
+               </list>
+               <list>
+                  <head>Slain on the Kings party.</head>
+                  <item>Col. <hi>Bloin.</hi>
+                  </item>
+                  <item>captain <hi>Vanco.</hi>
+                  </item>
+                  <item>captain <hi>Meldrum.</hi>
+                  </item>
+                  <item>Lieutenant <hi>Weſtoon.</hi>
+                  </item>
+                  <item>And about 200 other officers and ſouldiers.</item>
+               </list>
+               <list>
+                  <head>Wounded on the Kings ſide.</head>
+                  <item>colonel <hi>Kinſey.</hi>
+                  </item>
+                  <item>col. <hi>De Broglion.</hi>
+                  </item>
+                  <item>Lieu. col. <hi>Morelock.</hi>
+                  </item>
+                  <item>captain <hi>de Materillos.</hi>
+                  </item>
+                  <item>captain <hi>de Fiſcas.</hi>
+                  </item>
+                  <item>captain <hi>Mollin.</hi>
+                  </item>
+                  <item>captain <hi>Shaviniac.</hi>
+                  </item>
+                  <item>captain <hi>Caroon.</hi>
+                  </item>
+                  <item>Lieut. <hi>Godwell.</hi>
+                  </item>
+                  <item>Cornet <hi>Haveroon.</hi>
+                  </item>
+               </list>
+               <pb n="6" facs="tcp:118186:5"/>
+               <p>Since this great Defeat, we hear, that the Prince of <hi>Conde</hi> hath taken the field with his new Auxiliaries; and that He hath ſent a Letter to the Parliament, inviting over the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> to his aſſiſtance: Indeed, they are as much deſired by the one party, as dejected by the other: but that which cau<g ref="char:EOLhyphen"/>ſeth the moſt admiration, is, their drawing towards the Sea<g ref="char:EOLhyphen"/>coaſt, whoſe deſign is ſaid to be for the Port of <hi>Bordeaux.</hi> Several Commiſſions are given forth by the Scots King to raiſe forces againſt England; but amongſt the reſt Sir <hi>Geo. Carteret,</hi> late Governor of the Iſle of <hi>Jerſey</hi> hath broken his Articles with the Parl. by his actuall engagement againſt them, for the King; having already got 7 Frigats at Sea, &amp; a Commiſſion to fight and plunder the Engliſh: He hath lately been abroad with the <hi>Francis, Patrick,</hi> and <hi>Michael,</hi> which carry 44 pieces of Ordnance, and hath taken a gal<g ref="char:EOLhyphen"/>lant ſhip bound for Newfound Land, wherein was great ſtore of Gold and Silver. He hath taken ſeveral other pri<g ref="char:EOLhyphen"/>zes, and hath brought them to St. <hi>Mallows:</hi> from whence he hath ſent a Preſent of Gold to his Maſter.</p>
+               <closer>
+                  <dateline>
+                     <hi>Paris,</hi> 
+                     <date>May <hi>the</hi> 1. 1652.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
